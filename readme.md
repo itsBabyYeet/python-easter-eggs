@@ -1,4 +1,4 @@
-![BANNER IMAGE](assets\images\banner.png)
+![BANNER IMAGE](assets/images/banner.png)
 
 <h1 align="center"><i><strong>python-easter-eggs</i></h1>
 
@@ -15,7 +15,7 @@ Table of Contents
 - [Hello, World! Module](#hello-world-module)
 - [Phello World Module](#phello-world-module)
 - [ROT13 Cipher](#rot13-cipher)
-- [Barry as FLUFL](#barry-as-flufl)
+- [Barry as FLUFL](#barry-as-flufl-friendly-language-uncle-for-life)
 - [Mutable Default Arguments](#mutable-default-arguments)
 - [Floating-Point Precision](#floating-point-precision)
 - [Chained Comparisons](#chained-comparisons)
