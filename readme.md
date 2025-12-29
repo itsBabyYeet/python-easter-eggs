@@ -50,7 +50,9 @@ The Zen can always be summoned with `import this`. It even winks at Guido’s Du
 --------
 
 ## Antigravity Comic
- 
+
+<p align="center"><img src="assets/images/comic-xkcd-353.png" alt="ANTIGRAVITY COMIC"/></p>
+
 *Importing this module honors the famous XKCD “Python” comic.*
 
 ```python
@@ -74,7 +76,7 @@ Beyond the famous import antigravity (which opens an XKCD comic), there is a geo
 >>> geohash(37.421542, -122.085589, b'2005-05-26-10458.68')
 ```
 
-This uses the XKCD “geohashing” algorithm to compute a latitude/longitude from your location and a date+stock index seed. In this case it outputs a random nearby coordinate[2]. It’s a whimsical hidden feature — the module name hints at XKCD, and the geohash function is a playful extra import that generates a “treasure hunt” location.
+This uses the XKCD “geohashing” algorithm to compute a latitude/longitude from your location and a date+stock index seed. In this case it outputs a random nearby coordinate. It’s a whimsical hidden feature — the module name hints at XKCD, and the geohash function is a playful extra import that generates a “treasure hunt” location.
 
 ### Expected output:
 
@@ -222,7 +224,7 @@ Python (like most languages) uses binary floating-point under the hood, which ca
 0.30000000000000004
 ```
 
-(It looks odd, but it’s exactly what many languages show. In Python 3’s repr, small inaccuracies are revealed like this[15].) Use formatting or round() if you need a clean decimal display.
+(It looks odd, but it’s exactly what many languages show. In Python 3’s repr, small inaccuracies are revealed like this.) Use formatting or round() if you need a clean decimal display.
 
 --------
 
@@ -387,4 +389,4 @@ nan
   ⭐ IF YOU ENJOYED THIS COLLECTION, CONSIDER STARRING THE REPOSITORY! ⭐
 </h3>
 
-
+Your support helps keep the project alive and encourages more fun contributions!
